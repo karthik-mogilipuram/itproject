@@ -1,2 +1,2 @@
 # itproject
-Html and CSS 
+Project on Jewellery Designs using Html and CSS 
