@@ -1,0 +1,99 @@
+<html>
+<head>
+<title>menubar</title>
+<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+<header>
+<div class="main">
+<ul>
+<li><a href="#">Home</a></li>
+<li><a href="#">Login</a></li>
+<li><a href="#"> Gold/Diamond</a></li>
+<li><a href="silver.html"> Silver</a></li>
+<li><a href="#"> Contact us</a></li>
+</ul>
+</div>
+<div class="title">
+<h1>S&A Jewellers</h1></div>
+<div class="button">
+<a href="#" class="btn"> Visit us</a>
+<a href="#" class="btn"> Live Rate</a>
+</div>
+<div class="scroll">
+<h1>
+<font="Impact">
+<marquee> LATEST DESIGNS ARE AVAILABLE. FOR MORE
+DETAILS PLEASE CALL:+918898234100
+</marquee>
+</font>
+</div></h1>
+</header>
+</body>
+</html>
+######################################################################################################
+<!DOCTYPE html>
+<html>
+<head>
+<title>silver</title>
+</head>
+<frameset rows=50%,50% cols=50%,50% frameborder="0">
+<frame src="marqueek.html" name="f1">
+<frame src="marqueeb.html" name="f2">
+<frame src="marqueec.html" name="f3">
+<frame src="marqueep.html" name="f4">
+</frameset>
+</html>
+############################################################################################################
+<html>
+<head>
+</head>
+<body>
+<marquee behavior="fixed" direction="left">
+<img src="sb1.jpg">
+<img src="sb2.jpg">
+<img src="sb3.jpg">
+<img src="sb4.jpg">
+</marquee>
+</body>
+</html>
+######################################################################################################
+<html>
+<head>
+</head>
+<body>
+<marquee behavior="fixed" direction="left">
+<img src="sbm1.jpg">
+<img src="sbm2.jpg">
+<img src="sbm3.jpg">
+</marquee>
+</body>
+</html>
+#######################################################################################################
+<html>
+<head>
+</head>
+<body>
+<marquee behavior="fixed" direction="left">
+<img src="sc1.jpg">
+<img src="sc2.jpg">
+<img src="sc3.jpg">
+<img src="sc4.jpg">
+<img src="sc5.jpg">
+</marquee>
+</body>
+</html>
+#######################################################################################################<html>
+<html>
+<head>
+</head>
+<body>
+<marquee behavior="fixed" direction="left">
+<img src="sp1.jpg">
+<img src="sp2.jpg">
+<img src="sp3.jpg">
+<img src="sp4.jpg">
+<img src="sp5.jpg">
+</marquee>
+</body>
+</html>

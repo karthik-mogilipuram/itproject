@@ -1,0 +1,59 @@
+<HTML>
+<HEAD>
+<TITLE>class notes-img,hyper link
+</TITLE>
+</HEAD>
+<BODY  align="center"   bgcolor="pink" ><pre>
+<h1><u>#</u></h1>
+<img src="#.jpg"  alt="#"  width="350" height="200"    border=5 > </img>
+<h3><b>#<br>
+Design No.:#<br>
+Metal Type:22kt<br>
+Product Weight:# gms<br>
+Stone Type:#</b></h3>
+
+<img src="#.jpg"  alt="#"  width="350" height="200"  border=5> </img>
+<h3><b>#<br>
+Design No.:2KLGC<br>
+Metal Type:22kt<br>
+Product Weight:#gms<br>
+Stone Type:#</b></h3>
+
+<img src="#.jpg"  alt="#"  width="350" height="200"    border=5 > </img>
+<h3><b>#<br>
+Design No.:#<br>
+Metal Type:22kt<br>
+Product Weight:# gms<br>
+Stone Type:#</b></h3>
+
+<img src="#.jpg"  alt="#"  width="350" height="200"  border=5> </img>
+<h3><b>#<br>
+Design No.:2KLGC<br>
+Metal Type:22kt<br>
+Product Weight:#gms<br>
+Stone Type:#</b></h3>
+</pre> 
+</BODY>
+</HTML>
+####################################################################################################
+<html>
+<head>
+<title> hyperlink img</title>
+</head>
+<body>
+<a href="#.html" target="f3"><img src="#.jpg">
+</body>
+</html>
+##################################################################################################
+<html>
+<head>
+<title>gold</title>
+</head>
+<frameset rows= "50%,50%" cols="50%,*">
+<frame src="#.html" name="#">
+<frame src="#.html" name="#">
+<frame src="#.html" name="#">
+<frame src="#.html" name="#">
+</frameset>
+</html>
+#################################################################################################

@@ -1,0 +1,78 @@
+*{
+margin:0;
+padding:0;
+font-family: century Gothic;
+}
+header
+{
+background-color:black;
+}
+ul{
+float:right;
+list-style-type:none;
+margin-top:15px;
+}
+ul li{
+display: inline-block;
+margin-top:15x;
+}
+ul li a{
+text-decoration: none;
+color: gold;
+padding: 5px 10px;
+border: 1px solid gold;
+transition:0.6s ease;
+}
+ul li a:hover{
+background-color:white;
+color:gold;
+}
+.title
+{
+position:absolute;
+top:50%;
+left:50%;
+transform: translate(-50%,-50%);
+}
+.title h1
+{
+color:silver;
+font-size:230%;
+}
+.main
+{
+max-width:1000px;
+margin:auto;
+}
+.button
+{
+position:absolute;
+top:60%;
+left:60%;
+transform:translate(-50%,-50%);
+}
+.btn
+{
+border:1px solid gold;
+padding:10px 30px;
+color:gold;
+text-decoration:none;
+transition:0.6s ease;
+}
+.btn:hover
+{
+backgroung-color:white;
+color:gold;
+}
+.scroll
+{
+position:sticky;
+top:90%;
+transition:0.8s ease;
+}
+.scroll h1
+{
+text-decoration:line-through;
+size:20px;
+color:gold;
+}
